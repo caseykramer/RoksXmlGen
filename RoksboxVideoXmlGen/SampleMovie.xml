@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+  <viddb>
+    <movie>
+      <origtitle>Puss in Boots</origtitle>
+			<year>2011</year>
+			<mpaa>Rated PG</mpaa>
+			<director>Chris Miller</director>
+			<actors>Antonio Banderas, Salma Hayek, Zach Galifianakis</actors>
+			<description>A story about the events leading up to the sword fighting cat's meeting with Shrek and his friends.</description>
+			<path>Flix/PussInBoots/Puss In Boots.mp4</path>
+			<genre>[Movies/Kids]</genre>
+			<videocodec>mp4</videocodec>
+			<length>90</length>
+			<poster>images/pussinboots.jpg</poster>
+    </movie>
+  </viddb>
+</xml>

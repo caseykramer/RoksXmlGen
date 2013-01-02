@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<movie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ThumbGen="1">
+  <hasrighttoleftdirection>false</hasrighttoleftdirection>
+  <title>Aladdin</title>
+  <originaltitle>Aladdin</originaltitle>
+  <year>1992</year>
+  <plot>Aladdin is a street-urchin who lives in a large and busy town long ago with his faithful monkey friend Abu. When Princess Jasmine gets tired of being forced to remain in the palace that overlooks the city, she sneaks out to the marketplace, where she accidentally meets Aladdin. Under the orders of the evil Jafar (the sultan's advisor), Aladdin is thrown in jail and becomes caught up in Jafar's plot to rule the land with the aid of a mysterious lamp. Legend has it that only a person who is a "diamond in the rough" can retrieve the lamp from the Cave of Wonders. Aladdin might fight that description, but that's not enough to marry the princess, who must (by law) marry a prince.</plot>
+  <filename>Aladdin.m4v</filename>
+  <tagline>Wish granted!</tagline>
+  <trailer>http://www.youtube.com/watch?v=cmUZuZniouU</trailer>
+  <rating>7.9</rating>
+  <homepage>http://disneydvd.disney.go.com/aladdin-special-edition.html</homepage>
+  <episodes />
+  <episodesnames />
+  <writers />
+  <gueststars />
+  <id>tt0103639</id>
+  <releasedate>25.11.1992</releasedate>
+  <actor>
+    <name>Scott Weinger</name>
+    <name>Robin Williams</name>
+    <name>Linda Larkin</name>
+    <name>Jonathan Freeman</name>
+    <name>Frank Welker</name>
+    <name>Gilbert Gottfried</name>
+    <name>Douglas Seale</name>
+    <name>Charles Adler</name>
+    <name>Corey Burton</name>
+    <name>Jim Cummings</name>
+  </actor>
+  <genre>
+    <name>Adventure</name>
+    <name>Animation</name>
+    <name>Music</name>
+    <name>Family</name>
+  </genre>
+  <director>
+    <name>John Musker</name>
+    <name>Ron Clements</name>
+  </director>
+  <runtime>90</runtime>
+  <certification>G</certification>
+  <studio>
+    <name>Walt Disney Pictures</name>
+  </studio>
+  <country>
+    <name>United States of America</name>
+  </country>
+  <cover />
+  <backdrop>
+    <name>http://cf2.imgobject.com/t/p/original/wyR3Bbko9stYEZumqH0ZcL5Fqz2.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/qog4yRtJeExQHkBjtVTWkp99BvF.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/tPFcYYMdPBwRyMPaFzTysIJR6eZ.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/sAcg1NM1jhdcyJGHTdW6L1LObt.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/1idWCaYKijeTn2mKITwxZQ3VHwb.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/oal3nkGvgzYRwD9UALXjo11UPKW.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/Hgy7dCiEDoV4IPDYFAgQskmJAX.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/26McaINxdKZkepWPeiNH2atp5rI.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/upVGhDNsb4oPFh9FrdBuxs9KF65.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/1uyND4AM3xw9DPJOIy9xA76sBpo.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/5Mkn7azodV1fIH2moDUx3E6OaVQ.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/9TIzfD6sK2kWlyc1WIBQY7NFyX3.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/kLgx0brc3eQvidhKmYZZTC7khRv.jpg</name>
+    <name>http://cf2.imgobject.com/t/p/original/z7cO8NIsthL9azyPx11XEUWsdzj.jpg</name>
+  </backdrop>
+  <mediainfo>
+    <Resolution>
+      <Flag>Resolution_480p</Flag>
+    </Resolution>
+    <resolution>480P</resolution>
+    <Format>
+      <Flag>Format_Mpeg</Flag>
+    </Format>
+    <format>mpeg4</format>
+    <Video>
+      <Flag>Video_H264</Flag>
+    </Video>
+    <video>avc</video>
+    <Audio>
+      <Flag>Audio_AACStereo</Flag>
+    </Audio>
+    <audio>AAC</audio>
+    <Subtitles>
+      <Flag>Unknown</Flag>
+    </Subtitles>
+    <SubtitlesText>Unknown</SubtitlesText>
+    <framerate>23.976</framerate>
+    <aspectratio>1.70:1</aspectratio>
+    <videoresolution>684x478</videoresolution>
+    <videocodec>AVC</videocodec>
+    <videobitrate>987 Kbps</videobitrate>
+    <audiocodec>AAC</audiocodec>
+    <audiochannels>2</audiochannels>
+    <audiobitrate>160 Kbps</audiobitrate>
+    <durationseconds>5423</durationseconds>
+    <durationminutes>90</durationminutes>
+    <duration>1h 30m</duration>
+    <filesizebytes>781704718</filesizebytes>
+    <filesize>745.49 MB</filesize>
+    <container>MPEG-4</container>
+    <language>English</language>
+    <languagecode>en</languagecode>
+    <languages>English</languages>
+    <languagecodes>en</languagecodes>
+    <embeddedsubtitles>
+      <Format>Apple text</Format>
+      <Language>English</Language>
+      <EnglishLanguage>English</EnglishLanguage>
+    </embeddedsubtitles>
+    <externalsubtitles />
+  </mediainfo>
+</movie>
